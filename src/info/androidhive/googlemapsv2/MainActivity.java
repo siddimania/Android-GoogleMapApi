@@ -1,3 +1,6 @@
+/*
+@author: Siddhartha Dimania
+*/
 package info.androidhive.googlemapsv2;
 
 import android.app.Activity;
