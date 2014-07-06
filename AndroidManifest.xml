@@ -44,7 +44,7 @@ Siddhartha dimania
         android:label="@string/app_name">
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyCz5SX8qaC1UcgaK9utl6jQsBoVIh2zOvg" 
+            android:value="Your_API_Key" 
             />
         
         <meta-data android:name="com.google.android.gms.version" 
